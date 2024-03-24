@@ -9,7 +9,8 @@ DETECTION_WORDS = [
     "leveraging", "uncharted waters", "embark", "perplexing", "testament",
     "delving", "resonate", "imperative", "realm", "fabric", "cacophony",
     "interplay", "nuanced", "complacency", "crossroads", "threads", "comprehensive", "paved",
-    "reverberate"
+    "reverberate", "shedding", "facets", "realm", "unraveling", "in-depth", "encompasses", "showcasing", "indicative",
+    "cohesive"
 ]
 
 # Convert all words to lowercase for case-insensitive matching
