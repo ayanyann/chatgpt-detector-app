@@ -35,7 +35,7 @@ def check_detection(text):
 
 # Streamlit app
 def main():
-    st.title("THE CHATGPT DETECTOR APP😎")
+    st.title("The ChatGPT detector App😎")
 
     # Text area for user input
     user_input = st.text_area("Enter your text here:")
@@ -51,7 +51,7 @@ def main():
     
     # Display detection result message with styling
     if len(found_words) > 3:
-        st.error("THIS IS WRITTEN BY CHATGPT, OHH YOU'RE SOOOO DONE BRO!😡")
+        st.error("THIS IS WRITTEN BY CHATGPT!!!!😡")
     elif len(found_words) == 3:
         st.error("Okay I think your text is written by an AI😐")
     elif len(found_words) == 2:
