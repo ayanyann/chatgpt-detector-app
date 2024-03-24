@@ -10,7 +10,7 @@ DETECTION_WORDS = [
     "delving", "resonate", "imperative", "realm", "fabric", "cacophony",
     "interplay", "nuanced", "complacency", "crossroads", "threads", "comprehensive", "paved",
     "reverberate", "shedding", "facets", "realm", "unraveling", "in-depth", "encompasses", "showcasing", "indicative",
-    "cohesive"
+    "cohesive","underscore"
 ]
 
 # Convert all words to lowercase for case-insensitive matching
