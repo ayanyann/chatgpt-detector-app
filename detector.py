@@ -36,7 +36,7 @@ def check_detection(text):
 # Streamlit app
 def main():
     st.title("The ChatGPT detector App😎")
-    st.write("By: Mark Ryan L. Uy
+    st.write("By: Mark Ryan L. Uy")
 
     # Text area for user input
     user_input = st.text_area("Enter your text here:")
